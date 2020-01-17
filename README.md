@@ -6,7 +6,7 @@
 DevRadar
 </h1>
 
-<p align="center">Desenvolvimento de uma aplicação cujo objetivo é encontrar devs próximo a vôce no mapa através de filtros de tecnologias</p>
+<p align="center">Desenvolvimento de uma aplicação cujo objetivo é encontrar devs próximo a vôce no mapa através de filtros de tecnologias. <br>Semana OmniStack 10 oferecida pela Rocketseat</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
