@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://img2.gratispng.com/20180701/lvs/kisspng-imaging-radar-weather-radar-desktop-wallpaper-5b3975108f18e1.9091373515304921765861.jpg" alt="DevRadar" width="120">
+  <img src="https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-radar-icon-in-trendy-style-isolated-background-png-image_1606843.jpg" alt="DevRadar" width="120">
 <br>
 <br>
 DevRadar
