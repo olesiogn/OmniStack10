@@ -20,7 +20,7 @@ Este projeto apresenta todas as mais recentes ferramentas e práticas em desenvo
 - ⚛️ **React Js**
 - ⚛️ **React Native**
 - 💹 **Node Js**
-- 📄 **Mongo DB**
+- 🗃️ **Mongo DB**
 
 
 ## License
